@@ -1,0 +1,1 @@
+const stringToNumber = (string) => { return Number(string); }
