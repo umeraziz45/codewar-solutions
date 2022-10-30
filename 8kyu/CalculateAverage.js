@@ -2,7 +2,7 @@ function findAverage(array) {
   // your code here
   let sum = 0;
   
-  if(array === false){
+  if(array == false){
     return 0
   }else{
     array.forEach((element)=>{
