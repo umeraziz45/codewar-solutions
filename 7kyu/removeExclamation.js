@@ -4,4 +4,4 @@ function removeExclamationMarks(s) {
         return e !== "!";
     })
     return arr.join("");
-}
+  }
